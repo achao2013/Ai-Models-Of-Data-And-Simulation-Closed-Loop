@@ -92,6 +92,11 @@ CVPR 2025. [Website](https://wildgs-slam.github.io/) | [Paper](https://arxiv.org
 *National Yang Ming Chiao Tung University， NVIDIA Research*\
 ICCV2025. [Website](https://linjohnss.github.io/longsplat/) | [Paper](https://arxiv.org/abs/2508.14041) | [Code](https://github.com/NVlabs/LongSplat)
 
+**E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training**\
+*Qitao Zhao, Hao Tan, Qianqian Wang, Sai Bi, Kai Zhang, Kalyan Sunkavalli, Shubham Tulsiani, Hanwen Jiang*\  
+*Carnegie Mellon University, Adobe Research, Harvard University*\
+arXiv 2025. [Website](https://erayzer.github.io/) [Paper](https://arxiv.org/abs/2512.10950) [Code](https://github.com/QitaoZhao/E-RayZer)
+
 
 
 **4.real2sim**
@@ -115,6 +120,7 @@ arXiv202508. [Website](https://mengmouxu.github.io/SceneGen/) | [Paper](https://
 ### dynamic scene assert
 
 **1.recon**
+
 
 **2.one2many**
   
