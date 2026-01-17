@@ -1,5 +1,5 @@
-# Ai Data And Simulation Closed Loop for Intelligent Machines
-This repo is constructed for collecting and categorizing papers about data construction for intelligent machines, like autonomous vehicle, embodied robots, etc.
+# Ai Models of Data And Simulation Closed Loop  for Intelligent Machines
+This repo is constructed for collecting and categorizing papers about data construction and world simulation in LLM and aigc era for intelligent machines, like autonomous vehicle, embodied robots, etc.
 
 # Techniques
 
@@ -187,6 +187,13 @@ arxiv2025. [Website](https://robotwin-platform.github.io/) | [Paper](https://arx
 *HKUST(GZ), HKUST, Tsinghua Univerisity, Peking University, Chongqing University, Beijing Innovation Center of Humanoid Robotics*\
 arxiv 2025.  [Paper](https://arxiv.org/abs/2508.05580) 
 
+**AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning**
+*Ran Gong, Xiaohan Zhang, Jinghuan Shang, Maria Vittoria Minniti, Jigarkumar Patel, Valerio Pepe, Riedana Yan, Ahmet Gundogdu, Ivan Kapelyukh, Ali Abbas, Xiaoqiang Yan, Harsh Patel, Laura Herlant, Karl Schmeckpeper*
+*Robotics and AI Institute, Boston, MA, USA*
+arXiv 2025. [Website](https://anytask.github.io) | [Paper](https://arxiv.org/abs/2512.17853) | [Code](https://github.com/anytask)
+
+
+
 
 **5.small2large**
 
@@ -226,7 +233,7 @@ arxiv 2025. [Paper](https://arxiv.org/pdf/2508.05236)
 arxiv 2025. [Website](https://worldforge-agi.github.io/)| [Paper](https://arxiv.org/abs/2509.15130) | [Code](https://github.com/Westlake-AGI-Lab/WorldForge)
 
 
-I**10.human2robot**
+**10.human2robot**
 
 *X-Humanoid: Robotize Human Videos to Generate Humanoid Videos at Scale*\
 *Pei Yang, Hai Ci, Yiren Song, Mike Zheng Shou*\
