@@ -1,4 +1,5 @@
-# Ai Models of Data And Simulation Closed Loop  for Intelligent Machines
+# Ai Data And Simulation  for Intelligent Machines
+[![npm downloads](https://img.shields.io/npm/l/@your/package)](https://github.com/achao2013/Ai-Data-And-Simulation/README)
 This repo is constructed for collecting and categorizing papers about data construction and world simulation in LLM and aigc era for intelligent machines, like autonomous vehicle, embodied robots, etc.
 
 # Techniques
@@ -111,15 +112,23 @@ arxiv2025. [Website](https://litereality.github.io/) | [Paper](https://arxiv.org
 *School of Artificial Intelligence, Shanghai Jiao Tong University*\
 arXiv202508. [Website](https://mengmouxu.github.io/SceneGen/) | [Paper](https://arxiv.org/abs/2508.15769) | [Code](https://github.com/Mengmouxu/SceneGen)
 
-**WorldSplat: Gaussian-Centric Feed-Forward 4D Scene Generation for Autonomous Driving**\
-*Ziyue Zhu, Zhanqian Wu, Zhenxin Zhu, Lijun Zhou, Haiyang Sun, Bing Wan, Kun Ma, Guang Chen, Hangjun Ye, Jin Xie, jian Yang*\
-*Nankai University, Xiaomi EV, Nanjing University, Suzhou*
-. [Website](https://wm-research.github.io/worldsplat/) | [Paper](https://www.arxiv.org/abs/2509.23402) | [Code](https://github.com/wm-research/worldsplat)
 
 
 ### dynamic scene assert
 
 **1.recon**
+
+**WorldSplat: Gaussian-Centric Feed-Forward 4D Scene Generation for Autonomous Driving**\
+*Ziyue Zhu, Zhanqian Wu, Zhenxin Zhu, Lijun Zhou, Haiyang Sun, Bing Wan, Kun Ma, Guang Chen, Hangjun Ye, Jin Xie, jian Yang*\
+*Nankai University, Xiaomi EV, Nanjing University, Suzhou*\
+arxiv. [Website](https://wm-research.github.io/worldsplat/) | [Paper](https://www.arxiv.org/abs/2509.23402) | [Code](https://github.com/wm-research/worldsplat)
+
+
+**NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos**\
+*Yuxue Yang, Lue Fan, Ziqi Shi, Junran Peng, Feng Wang, Zhaoxiang Zhang*\
+*NLPR & MAIS, CASIA and CreateAI*\
+arXiv preprint arXiv:2601.00393. | [Website](https://neoverse-4d.github.io/) | [Paper](https://arxiv.org/abs/2601.00393) | [Code](https://github.com/IamCreateAI/NeoVerse)
+
 
 
 **2.one2many**
@@ -187,9 +196,9 @@ arxiv2025. [Website](https://robotwin-platform.github.io/) | [Paper](https://arx
 *HKUST(GZ), HKUST, Tsinghua Univerisity, Peking University, Chongqing University, Beijing Innovation Center of Humanoid Robotics*\
 arxiv 2025.  [Paper](https://arxiv.org/abs/2508.05580) 
 
-**AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning**
-*Ran Gong, Xiaohan Zhang, Jinghuan Shang, Maria Vittoria Minniti, Jigarkumar Patel, Valerio Pepe, Riedana Yan, Ahmet Gundogdu, Ivan Kapelyukh, Ali Abbas, Xiaoqiang Yan, Harsh Patel, Laura Herlant, Karl Schmeckpeper*
-*Robotics and AI Institute, Boston, MA, USA*
+**AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning**\
+*Ran Gong, Xiaohan Zhang, Jinghuan Shang, Maria Vittoria Minniti, Jigarkumar Patel, Valerio Pepe, Riedana Yan, Ahmet Gundogdu, Ivan Kapelyukh, Ali Abbas, Xiaoqiang Yan, Harsh Patel, Laura Herlant, Karl Schmeckpeper*\
+*Robotics and AI Institute, Boston, MA, USA*\
 arXiv 2025. [Website](https://anytask.github.io) | [Paper](https://arxiv.org/abs/2512.17853) | [Code](https://github.com/anytask)
 
 
@@ -253,6 +262,13 @@ arxiv 2025. [Webiste](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_d
 arxiv 2025. [Website](https://research.nvidia.com/labs/gear/dreamgen/) | [Paper](https://arxiv.org/abs/2505.12705) | [Code](https://github.com/NVIDIA/GR00T-Dreams)
 
 
+### real2sim
+**TwinAligner: Visual-Dynamic Alignment Empowers Physics-aware Real2Sim2Real for Robotic Manipulation**\ 
+*Hongwei Fan, Hang Dai, Jiyao Zhang, Jinzhou Li, Qiyang Yan, Yujie Zhao, Mingju Gao, Jinghang Wu, Hao Tang, Hao Dong*\
+*CFCS, School of Computer Science, Peking University, PKU-AgiBot Lab, State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University*\
+arXiv 2025. [Website](https://github.com/TwinAligner/TwinAligner) | [Paper](https://arxiv.org/abs/2512.19390) | 
+ [Code](https://github.com/TwinAligner/TwinAligner)
+
 
 
 ### condition genaration
@@ -291,6 +307,8 @@ RSS 2025. [Website](https://playground.mujoco.org/) | [Paper](https://arxiv.org/
 *Rui Li, Zixuan Hu, Wenxi Qu, Jinouwen Zhang, Zhenfei Yin, Sha Zhang, Xuantuo Huang, Hanqing Wang, Tai Wang, Jiangmiao Pang, Wanli Ouyang, Lei Bai, Wangmeng Zuo, Ling-Yu Duan, Dongzhan Zhou, Shixiang Tang*\
 *Shanghai AI Laboratory, Peking University, Oxford, The Chinese University of Hong Kong, Harbin Institute of Technology*\
 arxiv 2025. [Paper](https://arxiv.org/abs/2505.22634)
+
+
 
 
 
@@ -345,3 +363,7 @@ arxiv 2025. [Website](https://embodiedreamer.github.io/) | [Paper](https://githu
 arxiv 2025. [Website](https://genie-envisioner.github.io/) | [Paper](https://arxiv.org/abs/2508.05635v1) | [Code](https://github.com/AgibotTech/Genie-Envisioner)
 
 
+**VirtualEnv: A Platform for Embodied AI Research**\
+*Kabir Swain, Sijie Han, Ayush Raina, Jin Zhang, Shuang Li, Michael Stopa, Antonio Torralba*\
+*Massachusetts Institute of Technology, University of Toronto, Sony Interactive Entertainment, Google Deepmind*\
+arxiv 2026. [Paper](https://arxiv.org/abs/2601.07553)
