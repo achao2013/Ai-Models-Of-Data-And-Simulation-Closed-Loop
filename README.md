@@ -1,6 +1,8 @@
 # Ai Data And Simulation  for Intelligent Machines
 [![CC BY 4.0][cc-by-shield]][cc-by]
+
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 This repo is constructed for collecting and categorizing papers about data construction and world simulation in LLM and aigc era for intelligent machines, like autonomous vehicle, embodied robots, etc.
 
@@ -227,6 +229,14 @@ arxiv 2024. [Website](https://awfuact.github.io/zerohsi/) | [Paper](https://arxi
 *Sirui Xu, Hung Yu Ling, Yu-Xiong Wang, Liang-Yan Gui*\
 *University of Illinois Urbana-Champaign， Electronic Arts*\
 CVPR 2025. [Website](https://sirui-xu.github.io/InterMimic/) | [Paper](https://arxiv.org/abs/2502.20390) | [Code](https://github.com/Sirui-Xu/InterMimic)
+
+
+**RoboWheel: A Data Engine from Real-World Human Demonstrations for Cross-Embodiment Robotic Learning**\
+*Yuhong Zhang, Zihan Gao, Shengpeng Li, Ling-Hao Chen, Kaisheng Liu, Runqing Cheng, Xiao Lin, Junjia Liu, Zhuoheng Li, Jingyi Feng, Ziyan He, Jintian Lin, Zheyan Huang, Zhifang Liu, Haoqian Wang*\
+*Tsinghua University, Synapath, The Chinese University of Hong Kong, The University of Hong Kong, The Hong Kong Polytechnic University*\
+arXiv 2025. [Website](https://github.com/zhangyuhong01/Robowheel-Toolkits) | [Paper](https://arxiv.org/abs/2512.02729) | [Code](https://github.com/zhangyuhong01/Robowheel-Toolkits/tree/main)
+
+
 
 **8.new view**
 
